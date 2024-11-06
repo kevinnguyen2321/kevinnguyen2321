@@ -4,6 +4,15 @@ Hi! I'm a software developer with a passion for building projects and collaborat
 
 I’m especially interested in full-stack development, where I can leverage both my front-end and back-end skills to create complete, user-friendly applications.
 
+## Contact
+
+Feel free to reach out to me via email or connect with me on LinkedIn!
+
+ ![Email Logo](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=white) kevin.nguyen9703@gmail.com
+  
+  ![LinkedIn Logo](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2) [Connect with me in Linkedin](https://www.linkedin.com/in/kevin-nguyen23/) 
+
+
 ## Skills
 
 Here are some of the technologies and tools I’m proficient in:
